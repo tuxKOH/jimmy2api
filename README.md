@@ -23,7 +23,7 @@
 /v1/chat/completions
 etc...
 
-# token
+# api token
 硬編碼于代碼中 可自行更改 默認為`dummy`
 
 這個項目很早就做了 比另一個發了的人早 但迫於道德一直沒發 那他發了我也發吧（）
